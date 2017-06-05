@@ -4,14 +4,7 @@
 
 <font color=red size=3 face="Bodoni MT Poster Compressed"> (Inter-Credit Technology  Co., Ltd. Algorithm Engineer) </font>
 
-Table of Contents
-=================
-
-  *  Shiny with Login Privileges
-  *  Content
-  *  how part login interface
-  *  Apply
-  
+[TOC]
 
 ## Content
 

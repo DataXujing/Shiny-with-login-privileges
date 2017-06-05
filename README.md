@@ -7,10 +7,10 @@
 Table of Contents
 =================
 
-  * [Shiny with Login Privileges](# Shiny with Login Privileges)
-  * [Content](# Content)
-  * [how part login interface](# how part login interface)
-  * [Apply](# Apply)
+  *  Shiny with Login Privileges
+  *  Content
+  *  how part login interface
+  *  Apply
   
 
 ## Content
@@ -26,11 +26,11 @@ shiny的权限登录设置的功能。代码需要了解shiny,shinyjs,及CSS的�
 
 权限设置不正确：无法跳转到ui2
 
-![failure] (pic/failure.png)
+![failure](pic/failure.png)
 
 正确登录，跳转至ui2
 
-![success] (pic/success.png)
+![success](pic/success.png)
 
 ## Apply
 
